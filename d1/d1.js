@@ -1,6 +1,6 @@
-let name ="ブロモ";
-const age =17;
+let nama ="ブロモ";
+const ager =17;
 const city ="Semarang";
 let aktif =true;
 
-console.log(name,age,city,aktif);
+console.log(nama,ager,city,aktif);

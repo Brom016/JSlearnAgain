@@ -12,10 +12,10 @@ if(gf == null) {
     gf = 'sudah ada'
 }
 
-let saldoAwal = 50000
-let saldoAdd = 30000
+let saldoAwal1 = 50000
+let saldoAdd1 = 30000
 const hutang = 30000
-const saldoAkhir = saldoAwal + saldoAdd - hutang
+const saldoAkhir1 = saldoAwal1 + saldoAdd1 - hutang
 
 // Perkalian
 const x1 = 5
@@ -46,5 +46,5 @@ alert(
     berat badan saya ${weight}kg dan gf saya ${gf}`,
 )
 alert(
-    `saldo awal saya sebesar Rp${saldoAwal} dan saldo tambahan saya sebesar Rp${saldoAdd} serta terdapat hutang sebesar Rp${hutang} jadi total saldo saya sebsar Rp${saldoAkhir}`,
+    `saldo awal saya sebesar Rp${saldoAwal1} dan saldo tambahan saya sebesar Rp${saldoAdd1} serta terdapat hutang sebesar Rp${hutang} jadi total saldo saya sebsar Rp${saldoAkhir1}`,
 )
